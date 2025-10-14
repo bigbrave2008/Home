@@ -1,5 +1,6 @@
 host-suffix, nas.43140320.xyz, proxy
 host-suffix, qd.43140320.xyz, Qingdao
-ip-cidr, 192.168.0.0/16, Qingdao
+ip-cidr, 192.168.180.0/16, Qingdao
+ip-cidr, 192.168.116.0, proxy
 host-keyword, linkedin.com, proxy
 host-suffix, google.com, proxy
