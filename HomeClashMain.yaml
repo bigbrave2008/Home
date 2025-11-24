@@ -251,6 +251,7 @@ rules:
   - IP-CIDR,192.168.116.0/24,DIRECT, no-resolve
   - IP-CIDR,192.168.118.0/24,Qingdao, no-resolve
   - DOMAIN-SUFFIX,qd.43140320.xyz,Qingdao
+  - DOMAIN-SUFFIX,voxi.co.uk, Europe
 #  - IP-CIDR,127.0.0.0/8,DIRECT
 #  - IP-CIDR,172.16.0.0/12,DIRECT
 #  - IP-CIDR,10.0.0.0/8,DIRECT
