@@ -174,21 +174,14 @@ proxy-groups:
       - Qingdao
  #     - Cloudflare-Selfvless
  #     - Cloudflare-vless
+  
+  - name: Europe
+    type: select
+#    url: http://cp.cloudflare.com/generate_204
+#    interval: 3
+    proxies:
+      - NAT-vmess
 
- # - name: Replict-UrlTest
- #   type: url-test
- #   url: http://cp.cloudflare.com/generate_204
- #   interval: 3
- #   proxies:
- #     - replit-v2rayn2-vless
- #     - replit-v2rayn-vless
- #     - Replit-v2rayn2-vmess
- #     - Replit-v2rayn-vmess
- #     - Replit-2xiantian-vmess
- #     - Replit-2xiantian-vless
- #     - Replit-3xiantian-vmess
- #     - Replit-3xiantian-vless
- #   tolerance: 300
 
 #  - name: Serv00
 #    type: load-balance
