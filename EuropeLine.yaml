@@ -7,9 +7,7 @@
 #      - '.blogger.com'
 #      - '*.*.microsoft.com'
 #      - 'books.itunes.apple.com'
-
-
-    payload:
-      - DOMAIN-SUFFIX,voxi.co.uk
-      - DOMAIN,apple.comscoreresearch.com
-      - DOMAIN-SUFFIX,aaplimg.com
+payload:
+  - DOMAIN-SUFFIX,voxi.co.uk
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,aaplimg.com
