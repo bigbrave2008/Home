@@ -258,6 +258,7 @@ rules:
 - RULE-SET,国内域名白名单(By lhie1),DIRECT
 - RULE-SET,ChinaMedia,DIRECT
 - RULE-SET,ChinaDomain,DIRECT
+- RULE-SET,Test-Rule-11,DIRECT
 - MATCH, Main-Line
 
 rule-providers:
