@@ -258,7 +258,7 @@ rules:
 - RULE-SET,国内域名白名单(By lhie1),DIRECT
 - RULE-SET,ChinaMedia,DIRECT
 - RULE-SET,ChinaDomain,DIRECT
-- RULE-SET,Test-Rule-11,DIRECT
+- RULE-SET,Test-Rule-12,DIRECT
 - MATCH, Main-Line
 
 rule-providers:
@@ -305,7 +305,7 @@ rule-providers:
   Test-Rule-11:
     type: http
     behavior: classical
-    path: "./rule_provider/Test-Rule-11.yaml"
+    path: "./rule_provider/Test-Rule-12.yaml"
     format: yaml
     url: https://cdn.jsdelivr.net/gh/bigbrave2008/Home@refs/heads/main/EuropeLine.yaml
     interval: 86400  
