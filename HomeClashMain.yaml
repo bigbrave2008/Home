@@ -10,8 +10,8 @@ dns:
     - https://dns.alidns.com/dns-query
     #此处省略部分设置#   
 
-  enable: true
-  ipv6: true
+  enable: false
+  ipv6: false
   default-nameserver:
     - 114.114.114.114
     - 223.5.5.5
