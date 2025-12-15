@@ -1,0 +1,28 @@
+payload:
+  # China Banks
+  # > Agricultural Bank of China
+ # - DOMAIN-SUFFIX,ipleak.net
+ # - DOMAIN-KEYWORD,weibo
+ # - DOMAIN-SUFFIX,local
+ # - DOMAIN-SUFFIX,.cn
+ # - DOMAIN-KEYWORD,qnap
+ # - DOMAIN-KEYWORD,-cn
+ # - DOMAIN-KEYWORD, gspe
+ # - DOMAIN-KEYWORD,checkip
+ # - DOMAIN-KEYWORD,oyunfor
+ # - GEOSITE,linkedin
+ # - DOMAIN-KEYWORD,synology
+#  - SRC-IP-CIDR,192.168.116.111/32
+  
+  #iptv
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,orz-7.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  #- DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,thetvapp.to
+  
+  - DOMAIN-SUFFIX,dnsany.com
