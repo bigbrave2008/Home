@@ -1,0 +1,62 @@
+payload:
+  # China Banks
+  # > Agricultural Bank of China
+ # - DOMAIN-SUFFIX,ipleak.net
+ # - GEOIP,cn
+ # - DOMAIN-KEYWORD,weibo
+  - DOMAIN-SUFFIX,local
+#  - DOMAIN-SUFFIX,.cn
+#  - DOMAIN-KEYWORD,qnap
+#  - DOMAIN-KEYWORD,-cn
+  - DOMAIN-KEYWORD, gspe
+#  - DOMAIN-KEYWORD,checkip
+  - DOMAIN-KEYWORD,oyunfor
+#  - DOMAIN-KEYWORD,liepin
+#  - DOMAIN-KEYWORD,zhaopin
+#  - DOMAIN-KEYWORD,zhipin
+  ##DDNS
+  - DOMAIN-SUFFIX,checkip.dyndns.org
+  - DOMAIN-SUFFIX,checkipv6.dyndns.org
+  - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,ifconfig.co
+  - DOMAIN-SUFFIX,api.myip.com
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ip6.seeip.org
+  - DOMAIN-SUFFIX,members.3322.org
+  - DOMAIN-SUFFIX,nio.com
+  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-KEYWORD,alipan
+  - DOMAIN-SUFFIX,pddpic.com
+  #iptv
+    # 国内
+#  - DOMAIN-SUFFIX,dnsany.com
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,mobaibox.com
+  - DOMAIN-SUFFIX,gitv.tv
+  - GEOSITE,cctv
+  - DOMAIN-SUFFIX,yangshipin.cn
+  - DOMAIN-SUFFIX,gcable.cn
+  - IP-CIDR,183.206.0.0/15,no-resolve
+  - IP-CIDR,223.5.5.5/32,no-resolve
+  - IP-CIDR,27.36.0.0/14,no-resolve
+  - IP-CIDR,183.238.66.0/24,no-resolve
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,dnsany.com
+  - GEOSITE,cn
+
+    #【Meta专属】GEOSITE规则
+  - GEOSITE,icloud@cn
+  - GEOSITE,apple
+  - GEOSITE,apple-cn
+  - GEOSITE,microsoft@cn
+  - GEOSITE,cloudflare
+  - GEOSITE,geolocation-cn
+  - GEOSITE,china-list
+  - GEOSITE,cn
+  - GEOIP,cn,no-resolve
+  - DOMAIN,nezha.43140320.xyz
+  - DOMAIN,2pang.43140320.xyz
+  - DOMAIN-SUFFIX,jobboard.io
+  - DOMAIN-SUFFIX,studentcircus.com
