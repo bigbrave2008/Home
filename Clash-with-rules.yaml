@@ -261,8 +261,8 @@ redir-port: 7892
 tproxy-port: 7895
 port: 7890
 socks-port: 7891
-external-ui: "/usr/share/openclash/ui"
-external-ui-name: metacubexd
+#external-ui: "/usr/share/openclash/ui"
+#external-ui-name: metacubexd
 keep-alive-interval: 15
 keep-alive-idle: 600
 ipv6: false
