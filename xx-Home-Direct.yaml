@@ -9,7 +9,7 @@ payload:
 #  - DOMAIN-KEYWORD,qnap
 #  - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD, gspe
-  - DOMAIN-KEYWORD,steamstatic.com
+#  - DOMAIN-KEYWORD,steamstatic.com
 #  - DOMAIN-KEYWORD,checkip
   - DOMAIN-KEYWORD,oyunfor
 #  - DOMAIN-KEYWORD,liepin
