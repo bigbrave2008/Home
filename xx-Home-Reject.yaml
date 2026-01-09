@@ -11,3 +11,13 @@ payload:
 #  - DOMAIN-KEYWORD,checkip
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,hismarttv
+# 下面好像是iptv的广告频道
+  - DOMAIN-KEYWORD,zhenyunpan.com
+  - DOMAIN-KEYWORD,xianshuabao.com
+  - DOMAIN-KEYWORD,p2.zhituibang.com
+  - DOMAIN-KEYWORD,qq2.cdn.enai1.cn
+  - DOMAIN-KEYWORD,live.haibao365.cn
+  - DOMAIN-KEYWORD,iptvrr.sh.chinamobile.com
+  - DOMAIN-KEYWORD,live2.rxip.sc96655.com
+  - DOMAIN-KEYWORD,hbgslbserv.taipan.jda.bcs.ottcn.com
+  - DOMAIN-KEYWORD,tt.hlb7.cn
