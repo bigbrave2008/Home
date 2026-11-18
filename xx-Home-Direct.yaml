@@ -58,6 +58,6 @@ payload:
   - GEOSITE,cn
   - GEOIP,cn,no-resolve
   - DOMAIN,nezha.43140320.xyz
-  - DOMAIN,2pang.43140320.xyz
+  - DOMAIN-SUFFIX,43140320.xyz
   - DOMAIN-SUFFIX,jobboard.io
   - DOMAIN-SUFFIX,studentcircus.com
